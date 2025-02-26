@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩🏻‍🎓 Studied Computer Science at: .[Holberton Coding School].(https://www.youtube.com/@holbertonpuertorico9131)</p>
+<p align="left">👩🏻‍🎓 Studied Computer Science at: [Holberton Coding School](https://www.youtube.com/@holbertonpuertorico9131)</p>
 
 ###
 
