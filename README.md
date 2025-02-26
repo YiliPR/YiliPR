@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">👩🏻‍🎓 Studied Computer Science at: [Holberton Coding School](https://www.youtube.com/@holbertonpuertorico9131)</p>
+<p align="left">👩🏻‍🎓 Studied Computer Science at: 
+    <a href="https://www.youtube.com/@holbertonpuertorico9131" target="_blank">Holberton Coding School</a>
+</p>
+
 
 ###
 
@@ -18,13 +21,13 @@
 
 ###
 
-<p align="left">📫 How to reach me: elijfigueroaperez@gmail.com</p>
+<p align="left">📫 How to reach me</p>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YiliPR&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YiliPR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=YiliPR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
