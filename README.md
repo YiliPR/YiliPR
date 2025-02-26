@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📫 How to reach me</p>
+<p>📩 Contact me: <a href="mailto:elijfigueroaperez@gmail.com">elijfigueroaperez@gmail.com.com</a></p>
 
 ###
 
